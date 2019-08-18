@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Syndicate Bank Query App</string>
+    <string name="hint">Tap on mic to start</string>
+    <string name="set_ip_address">Set IP Address</string>
+    <string name="ip_address">192.168.137.80</string>
+</resources>
